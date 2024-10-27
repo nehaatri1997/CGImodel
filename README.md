@@ -1,4 +1,4 @@
-# Pyhton-project-CGI model
+# Python-project-CGI model
 
 This script defines a basic Generative Adversarial Network (GAN) to generate images similar to the MNIST dataset using TensorFlow and Keras. Here’s an overview of the workflow, along with the purpose of each major component:
 
@@ -39,7 +39,6 @@ This code builds and trains a GAN model for generating MNIST-like images. You ca
 
 
 # Overview
-Briefly describe the project:
 
 Objective: Train a Generative Adversarial Network (GAN) to generate images similar to MNIST digits.
 Key components: Generator and Discriminator models trained using the MNIST dataset.
